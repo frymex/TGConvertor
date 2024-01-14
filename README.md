@@ -11,7 +11,8 @@ This module is small util for easy converting Telegram sessions to various forma
 ## Installation
 
 ```
-$ pip install git+https://github.com/frymex/TGConvertor
+$ git clone https://github.com/frymex/TGConvertor
+$ cd TGConvertor & python setup.py install
 ```
 
 ## Quickstart
